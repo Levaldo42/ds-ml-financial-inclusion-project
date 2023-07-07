@@ -4,6 +4,8 @@ This template repo will give you a good starting point for your second project. 
 
 The data used for this is: [coffee quality dataset](https://github.com/jldbc/coffee-quality-database).
 
+The slides for the presentation are under: [Slides for presentation](https://docs.google.com/presentation/d/13g0cf4CojeH_SqUUQ84opw7_dplkrl_nZlCcmJoBrco/edit?pli=1#slide=id.p)
+
 ---
 
 ## Set up a Kanban board on github
