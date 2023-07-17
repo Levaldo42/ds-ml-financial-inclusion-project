@@ -25,7 +25,7 @@ This is what we did:
 
 **Environment:** 
 
-For installing the virtual environment you can either use the Makefile and run `make setup` or install it manually with the following commands: 
+For installing the virtual environment you can install it manually with the following commands: 
 
 ```Bash
 pyenv local 3.11.3
@@ -37,12 +37,6 @@ pip install -r requirements.txt
 In order to train the model and store test data in the data folder and the model in models run:
 
 ```bash
-## Usage
-
-#activate env
-source .venv/bin/activate
-
-python example_files/train.py  
 ## Libraries used
 For data analysis tasks we used the following libraries.
 ```Bash
