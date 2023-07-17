@@ -52,8 +52,6 @@ sklearn.ensemble
 scipy.stats
 ```
 
-## Limitations
 
-Development libraries are part of the production environment, normally these would be separate as the production code should be as slim as possible.
 
 
