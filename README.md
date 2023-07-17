@@ -34,9 +34,8 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
-In order to train the model and store test data in the data folder and the model in models run:
 
-```bash
+
 ## Libraries used
 For data analysis tasks we used the following libraries.
 ```Bash
