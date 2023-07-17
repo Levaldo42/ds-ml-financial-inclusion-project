@@ -1,9 +1,9 @@
 # EDA project for ML
 
-Our second project dealt with the topic of financial inclusion in East African countries(Kenya, Rwanda, Tanzania and Uganda). The data set was provided in a competition on Zindi [Financial Inclusion in Africa](https://zindi.africa/competitions/financial-inclusion-in-africa).
+Our second project dealt with the topic of financial inclusion (FI) in East African countries(Kenya, Rwanda, Tanzania and Uganda). The data set was provided in a competition on Zindi [Financial Inclusion in Africa](https://zindi.africa/competitions/financial-inclusion-in-africa).
 
 Financial inclusion is considered as a main topic for poverty reduction in poor countries in the world.
-[for more information read here](https://www.gpfi.org/why-financial-inclusion)
+[For more information about FI read here](https://www.gpfi.org/why-financial-inclusion)
 
 The slides for the presentation are under: [Slides for our presentation](https://docs.google.com/presentation/d/13g0cf4CojeH_SqUUQ84opw7_dplkrl_nZlCcmJoBrco/edit#slide=id.g1e4c24518d3_0_1)
 
