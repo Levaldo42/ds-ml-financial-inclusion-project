@@ -7,8 +7,6 @@ Financial inclusion is considered as a main topic for poverty reduction in poor 
 
 The slides for the presentation are under: [Slides for our presentation](https://docs.google.com/presentation/d/13g0cf4CojeH_SqUUQ84opw7_dplkrl_nZlCcmJoBrco/edit#slide=id.g1e4c24518d3_0_1)
 
-Welcome to the financial inclusion wiki!
-
 This is what we did:
 
 1. Data preparation and minimal data cleaning
